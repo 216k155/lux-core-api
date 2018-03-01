@@ -1,0 +1,29 @@
+{
+  "name": "luxcore",
+  "main": "browser/bundle.js",
+  "version": "0.1.36",
+  "homepage": "https://github.com/216k155/lux-core-api",
+  "authors": [
+    "Larry Ren (<216k155@luxcore.io>)"
+  ],
+  "description": "Lux Core Library in Javascript",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "216k155",
+    "luxcore",
+    "unify",
+    "bitcoin",
+    "bitcore",
+    "btc",
+    "satoshi"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ]
+}
